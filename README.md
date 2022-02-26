@@ -40,7 +40,10 @@ This b-pki is the concept developed based on this -> https://pki-tutorial.readth
 
 Quick start:
 -------------------------------------------------------------------------------------------------------------------------
-Clone the b-pki: "git clone https://github.com/iamazar/b-pki.git" and change the directory: "cd b-pki"
+- Clone the b-pki: "git clone https://github.com/iamazar/b-pki.git" 
+- Change the directory: "cd b-pki"
+- Give execute permission: "chmod +x b-pki.sh"
+- Execute it: "./b-pki.sh"
 
 Detailed Instructions:
 -------------------------------------------------------------------------------------------------------------------------
